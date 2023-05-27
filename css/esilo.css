@@ -1,0 +1,17 @@
+ul {
+	list-style: none;
+}
+
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: #e5e5e5 solid 1px;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
